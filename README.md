@@ -6,12 +6,6 @@ This project analyzes customer churn in a banking environment using Power BI. Th
 
 ---
 
-## Dashboard Preview
-
-> Add your dashboard screenshot here.
-
----
-
 ## Business Problem
 
 Customer churn directly impacts revenue and customer lifetime value. Banks need to identify which customer segments are more likely to leave and understand the factors influencing churn.
